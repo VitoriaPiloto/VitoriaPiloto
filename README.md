@@ -9,8 +9,6 @@
 
 - 🌱 Aprendendo: **desenvolvimento web e C**;
 
-- 📫 Como me achar: **vitoriapiloto477@gmail.com**
-
 - 📄 Veja mais sobre minhas experiências: [Currículo](https://drive.google.com/file/d/1-0B5i8BlwG5MRXNol23wREqRKrEXFGx3/view?usp=sharing)
 
 
