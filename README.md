@@ -1,4 +1,4 @@
-<h1 align="center">👋 Oii, sou Vitóra</h1>
+<h1 align="center">👋 Oii, sou Vitória</h1>
 <h3 align="center">Apaixonada por estudar e aprender</h3>
 
 - 💻 Formada como **técnica em informática** no ISERJ;
