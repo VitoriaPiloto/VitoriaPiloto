@@ -7,7 +7,7 @@
 
 - 🔭 Atualmente, a procura de um estágio;
 
-- 🌱 Aprendendo: **desenvolvimento web e C**;
+- 🌱 Aprendendo: **desenvolvimento web, java e python**;
 
 - 📄 Veja mais sobre minhas experiências: [Currículo](https://drive.google.com/file/d/1-0B5i8BlwG5MRXNol23wREqRKrEXFGx3/view?usp=sharing)
 
