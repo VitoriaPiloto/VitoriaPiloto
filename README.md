@@ -11,7 +11,7 @@
 
 - 🔭 Atualmente, a procura de um estágio;
 
-- 🌱 Aprendendo: _desenvolvimento web e java_;
+- 🌱 Aprendendo: c# e React;
 
 - 📄 Veja mais sobre minhas experiências: [Currículo](https://drive.google.com/file/d/1x9_G7-FU6lMjNBGQr2bVFp8wjO_1DyuJ/view?usp=sharing)
 
