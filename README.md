@@ -23,11 +23,11 @@
   - Aprendo inglês com séries e músicas
   - Faço letterings
 <hr>
-<a href="https://github.com/VitoriaPiloto/3DAW">
+<a href="https://github.com/VitoriaPiloto/studies-react">
 <img align="center" width="347px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaPiloto&hide=Handlebars,SCSS,HTML&theme=radical&layout=compact" />
 </a>
-<a href="https://github.com/VitoriaPiloto/3DAW">
-  <img align="center" width="438px" src="https://github-readme-stats.vercel.app/api/pin/?username=VitoriaPiloto&repo=3DAW&theme=radical" />
+<a href="https://github.com/VitoriaPiloto/studies-react">
+  <img align="center" width="438px" src="https://github-readme-stats.vercel.app/api/pin/?username=VitoriaPiloto&repo=studies-react&theme=radical" />
 </a>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vitoriapiloto&label=Profile%20views&color=650094&style=flat" alt="vitoriapiloto" /> </p>
 
