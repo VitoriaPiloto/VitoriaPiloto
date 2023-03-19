@@ -45,4 +45,4 @@
 <a href="https://instagram.com/vitoriampr" target="blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
 </p>
 
-![Snake Animation](https://github.com/VitoriaPiloto)
+![snake gif](https://github.com/VitoriaPiloto/VitoriaPiloto/blob/output/github-contribution-grid-snake.svg))
