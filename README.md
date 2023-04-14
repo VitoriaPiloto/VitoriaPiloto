@@ -19,7 +19,7 @@
 
 - 🎓 𝐂𝐮𝐫𝐬𝐚𝐧𝐝𝐨 𝐀𝐧𝐚́𝐥𝐢𝐬𝐞 𝐞 𝐃𝐞𝐬𝐞𝐧𝐯𝐨𝐥𝐯𝐢𝐦𝐞𝐧𝐭𝐨 𝐝𝐞 𝐒𝐢𝐬𝐭𝐞𝐦𝐚𝐬 𝐧𝐚 𝐅𝐀𝐄𝐓𝐄𝐑𝐉 - 𝐑𝐈𝐎
 
-- 🌱 𝐀𝐭𝐮𝐚𝐥𝐦𝐞𝐧𝐭𝐞 𝐚𝐩𝐫𝐞𝐧𝐝𝐞𝐧𝐝𝐨 𝐂# 𝐞 𝐑𝐞𝐚𝐜𝐭 𝐀𝐯𝐚𝐧𝐜̧𝐚𝐝𝐨
+- 🌱 𝐀𝐭𝐮𝐚𝐥𝐦𝐞𝐧𝐭𝐞 𝐚𝐩𝐫𝐞𝐧𝐝𝐞𝐧𝐝𝐨 𝐂# 
 
 - 📄 [Currículo](https://drive.google.com/file/d/1x9_G7-FU6lMjNBGQr2bVFp8wjO_1DyuJ/view?usp=sharing)
 
@@ -40,14 +40,6 @@
 <a href="https://github.com/VitoriaPiloto/studies-react">
 <img align="left" width="347px" height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaPiloto&hide=Handlebars,SCSS,HTML&theme=radical&layout=compact" />
 </a>
-
-<a href="https://github.com/VitoriaPiloto/studies-react">
-  <img align="center" width="500px" height="230" src="https://github-readme-stats.vercel.app/api/pin/?username=VitoriaPiloto&repo=studies-react&theme=radical" />
-</a>
-<br/>
-<img align="right" src="https://komarev.com/ghpvc/?username=vitoriapiloto&label=Profile%20views&color=650094&style=flat" alt="vitoriapiloto" />
-<img align="left" src="https://64.media.tumblr.com/8aa5cd769f22f961f344b92fe1e6e0c0/7eedd1e1dd07c2c3-6c/s75x75_c1/d26144006dc020f1da58a56049b580412b305dff.gifv"/>
-<p align="center">
   
 ## Tecnologias utilizadas:
 
