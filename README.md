@@ -38,7 +38,7 @@
 <br/>
 
 <a href="https://github.com/VitoriaPiloto/studies-react">
-<img align="center" width="347px" height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaPiloto&hide=Handlebars,SCSS,HTML&theme=radical&layout=compact" />
+<img align="center" width="347px" height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaPiloto&hide=Handlebars,SCSS,HTML,LLVM&theme=radical&layout=compact" />
 </a>
 
 <img align="left" src="https://64.media.tumblr.com/8aa5cd769f22f961f344b92fe1e6e0c0/7eedd1e1dd07c2c3-6c/s75x75_c1/d26144006dc020f1da58a56049b580412b305dff.gifv"/>
