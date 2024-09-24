@@ -15,21 +15,18 @@
 <a href='https://blinkies.cafe' target='_blank'><img src='https://i.imgur.com/VeUzdHZ.gif' alt='blinkies.cafe | make your own blinkies!'></a>
 </p>
   
-- 💻 𝐅𝐨𝐫𝐦𝐚𝐝𝐚 𝐜𝐨𝐦𝐨 𝐓𝐞́𝐜𝐧𝐢𝐜𝐚 𝐞𝐦 𝐢𝐧𝐟𝐨𝐫𝐦𝐚́𝐭𝐢𝐜𝐚 𝐧𝐨 𝐈𝐒𝐄𝐑𝐉;
+- 💻 Formada como técnica em informática com ênfase em programação back-end no Instituto Superior de Educação do Rio de Janeiro;
 
-- 🎓 𝐂𝐮𝐫𝐬𝐚𝐧𝐝𝐨 𝐀𝐧𝐚́𝐥𝐢𝐬𝐞 𝐞 𝐃𝐞𝐬𝐞𝐧𝐯𝐨𝐥𝐯𝐢𝐦𝐞𝐧𝐭𝐨 𝐝𝐞 𝐒𝐢𝐬𝐭𝐞𝐦𝐚𝐬 𝐧𝐚 𝐅𝐀𝐄𝐓𝐄𝐑𝐉 - 𝐑𝐈𝐎
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na Faculdade de Educação Tecnológica do Rio de Janeiro (4/5)
 
-- 🌱 𝐀𝐭𝐮𝐚𝐥𝐦𝐞𝐧𝐭𝐞 𝐚𝐩𝐫𝐞𝐧𝐝𝐞𝐧𝐝𝐨 𝐂# 
+- 🌱 Trabalhando com C# e em constante evolução
 
-- 📄 [Currículo](https://drive.google.com/file/d/1x9_G7-FU6lMjNBGQr2bVFp8wjO_1DyuJ/view?usp=sharing)
-
-- ⏰ 𝐎 𝐪𝐮𝐞 𝐞𝐮 𝐟𝐚𝐜̧𝐨 𝐧𝐨 𝐭𝐞𝐦𝐩𝐨 𝐥𝐢𝐯𝐫𝐞:
-  - 𝐀𝐬𝐬𝐢𝐬𝐭𝐨 𝐬𝐞́𝐫𝐢𝐞𝐬 𝐞 𝐚𝐧𝐢𝐦𝐞𝐬
-  - 𝐋𝐞𝐢𝐨 𝐥𝐢𝐯𝐫𝐨𝐬 𝐝𝐞 𝐟𝐚𝐧𝐭𝐚𝐬𝐢𝐚 𝐞 𝐝𝐢𝐬𝐭𝐨𝐩𝐢𝐚 
-  - 𝐎𝐮𝐜̧𝐨 𝐦𝐮́𝐬𝐢𝐜𝐚: 𝐞𝐥𝐞𝐭𝐫𝐨̂𝐧𝐢𝐜𝐚, 𝐩𝐨𝐩 𝐨𝐮 𝐫𝐨𝐜𝐤
-  - 𝐂𝐫𝐨𝐜𝐡𝐞𝐭𝐨
-  - 𝐄𝐬𝐭𝐮𝐝𝐨 𝐢𝐧𝐠𝐥𝐞̂𝐬, 𝐜𝐨𝐦 𝐬𝐞́𝐫𝐢𝐞𝐬 𝐞 𝐦𝐮́𝐬𝐢𝐜𝐚𝐬
-  - 𝐅𝐚𝐜̧𝐨 𝐥𝐞𝐭𝐭𝐞𝐫𝐢𝐧𝐠𝐬
+- ⏰ Meus hobbies:
+  - Assistir séries e animes (fantasia e ficção científica são meus gêneros favoritos, mas aceito sugestões)
+  - Leio livros (fantasia e distopia são disparado os meus favoritos)
+  - Ouvir música (Meu combustível! - Eletrônica, pop e rock) 
+  - Fazer crochê
+  - Estudo inglês (músicas e filmes, é minha forma favorita, mas minha ofensiva de mais de 250 dias no duolingo segue intacta!)
 
 <br/>
 <p align="center">
@@ -59,7 +56,5 @@
 <a href="https://www.linkedin.com/in/vitoriapiloto/" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /> </a>
 <a href="https://instagram.com/vitoriampr" target="blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
 </p>
-
-![snake gif](https://github.com/VitoriaPiloto/VitoriaPiloto/blob/output/github-contribution-grid-snake.svg)
 
 </p>
