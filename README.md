@@ -26,7 +26,7 @@
   - Leio livros (fantasia e distopia são disparado os meus favoritos)
   - Ouvir música (Meu combustível! - Eletrônica, pop e rock) 
   - Fazer crochê
-  - Estudo inglês (músicas e filmes, é minha forma favorita, mas minha ofensiva de mais de 250 dias no duolingo segue intacta!)
+  - Estudo inglês (músicas e filmes, é minha forma favorita, mas minha ofensiva de mais de 400 dias no duolingo segue intacta!)
 
 <br/>
 <p align="center">
