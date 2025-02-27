@@ -17,7 +17,7 @@
   
 - 💻 Formada como técnica em informática com ênfase em programação back-end no Instituto Superior de Educação do Rio de Janeiro;
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas na Faculdade de Educação Tecnológica do Rio de Janeiro (4/5)
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na Faculdade de Educação Tecnológica do Rio de Janeiro (5/5)
 
 - 🌱 Trabalhando com C# e em constante evolução
 
